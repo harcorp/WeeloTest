@@ -6,4 +6,12 @@ Steps to install before clone
 Run
 `yarn install`
 
-Before `yarn android` or `yarn ios`
+If you wants run on Android
+
+Run `yarn android`
+
+If you wants run on iOS
+
+Before `cd ios && pod install`
+
+And run `yarn ios`
